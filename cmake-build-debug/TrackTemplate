@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tracks</title>
+</head>
+<body>
+<p>The following is a list of track in the database.</p>
+
+{% track %}
+
+</body>
+</html>
